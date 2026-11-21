@@ -1,7 +1,7 @@
 # Ex.No: 1B                     CONVERSION OF NON STATIONARY TO STATIONARY DATA
 ###  Date: 31-10-2026
 ## Dataset Name: 
-Battery Drain
+User Behavior Timeseries
 # software Required:
 Jupyter notebook
 ### AIM:
